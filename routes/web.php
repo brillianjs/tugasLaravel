@@ -22,9 +22,8 @@ Route::get('/', function () {
 
 Route::get('/about', function () {
     return view('about', [
-        "nama" => "Bintang",
-        "email" => "bintanggg@gmail.com",
-        "gambar" => "https://c.tenor.com/BE6MH8296wEAAAAC/%E3%81%93%E3%81%BC-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif",
+        "nama" => "Jourdy Junior",
+        "email" => "jourdyjunior@gmail.com",
         "title" => "About"
     ]);
 });

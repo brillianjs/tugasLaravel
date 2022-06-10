@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-12">
         <div class="copyright">
-            <p>Copyright © 2022 Bintang All rights reserved. Made by ❤️.
+            <p>Copyright © 2022 Jourdy Junior. All rights reserved.
             </p>
         </div>
     </div>
